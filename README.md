@@ -2,6 +2,8 @@
 
 This is for easy installation of the [Extreme Ultimate bashrc](https://sourceforge.net/projects/ultimate-bashrc/) for beginners. Refer to the sourceforge page for more information and documentation. After installation, you can also run `hlp` to view help.
 
+![img](./demo/image.png)
+
 [Click here](#demonstration) to open demonstration media.
 
 ## Installation
@@ -34,19 +36,17 @@ For colored `ls` command, install `lsd`:
 sudo apt install lsd
 ```
 
+You should also have [Nerd Fonts](https://www.nerdfonts.com/font-downloads) installed (prefferably "JetBrainsMono Nerd Font") for the icons to work.
+
 ## Demonstration
-
-
-### Installation
 
 Youtube Video: [Click here](https://youtu.be/sg_FFVTZixU?si=BfU3WwStlxl8k9qn).
 
 <video width="640" height="360" controls>
-  <source src="./demo/vid.mp4" type="video/mp4">
+  <source src="./demo/installation.mp4" type="video/mp4">
   Your browser does not support the video tag.
   Go to the ./demo folder demonstration media.
 </video>
 
 
-### Screenshots
 
