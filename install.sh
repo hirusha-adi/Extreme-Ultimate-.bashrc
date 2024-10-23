@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# dir="$HOME/"
-dir="./tmp/"
+dir="$HOME/"
+# dir="./tmp/"
 
 # colors
 GREEN='\033[0;32m'
