@@ -1,6 +1,6 @@
 # Extreme-Ultimate-.bashrc
 
-This is for easy installation of the [Extreme Ultimate bashrc](https://sourceforge.net/projects/ultimate-bashrc/) for beginners.
+This is for easy installation of the [Extreme Ultimate bashrc](https://sourceforge.net/projects/ultimate-bashrc/) for beginners. Refer to the sourceforge page for more information and documentation. After installation, you can also run `hlp` to view help.
 
 [Click here](#demonstration) to open demonstration media.
 
