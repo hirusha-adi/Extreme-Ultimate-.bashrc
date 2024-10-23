@@ -38,6 +38,8 @@ sudo apt install lsd
 
 You should also have [Nerd Fonts](https://www.nerdfonts.com/font-downloads) installed (prefferably "JetBrainsMono Nerd Font") for the icons to work.
 
+To Install the font, download it, and extract all of the font files (eg: `*.ttf`) to `~/.fonts/`.
+
 ## Demonstration
 
 Youtube Video: [Click here](https://youtu.be/sg_FFVTZixU?si=BfU3WwStlxl8k9qn).
