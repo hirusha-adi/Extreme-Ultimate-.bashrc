@@ -18,9 +18,21 @@ Run the installer:
 wget -q -O install.sh "https://raw.githubusercontent.com/hirusha-adi/Extreme-Ultimate-bashrc/refs/heads/main/install.sh" && chmod +x install.sh && ./install.sh && rm install.sh
 ```
 
-## Configuration
+## Additional Configuration
 
+Switch to [`fastfetch`](https://github.com/fastfetch-cli/fastfetch?tab=readme-ov-file#installation) from `neofetch`. You don't have to remove `neofetch`. The `.bashrc` will choose `fastfetch` over `neofetch`. Or, if you dont want this to run, simply disable it by seetting `_SKIP_SYSTEM_INFO=true`.
 
+```
+sudo add-apt-repository ppa:zhangsongcui3371/fastfetch
+sudo apt update
+sudo apt install fastfetch
+```
+
+For colored `ls` command, install `lsd`:
+
+```
+sudo apt install lsd
+```
 
 ## Demonstration
 
